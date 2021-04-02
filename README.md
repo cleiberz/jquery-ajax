@@ -1,2 +1,2 @@
 # jquery-ajax
-Introdução ao uso do JQuery (Digital Innovation One)
+Consulta de dados de CEP e apresentação na tela. (Digital Innovation One)
